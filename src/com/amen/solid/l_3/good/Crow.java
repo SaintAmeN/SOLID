@@ -8,7 +8,6 @@ public class Crow extends FlyBird{
 	
 	@Override
 	public void fly() {
-		// TODO Auto-generated method stub
 		super.fly();
 	}
 }

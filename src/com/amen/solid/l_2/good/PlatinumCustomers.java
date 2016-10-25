@@ -1,8 +1,5 @@
 package com.amen.solid.l_2.good;
 
-import java.util.LinkedList;
-import java.util.List;
-
 import com.amen.solid.l_2.Customer;
 
 public class PlatinumCustomers implements ICustomersCollection{
